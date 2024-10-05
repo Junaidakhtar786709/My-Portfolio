@@ -1,0 +1,337 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    height:auto;
+    width:auto;
+    background-color:rgb(17, 21, 43);
+}
+.box0{
+    height:2400px;
+    width:auto;
+}
+.box1{
+    position:relative;
+    background-color:rgb(13, 14, 26);
+    height:640px;
+    width:1440px;
+    left:40px;
+    top:30px;
+    box-shadow:0px 0px 20px 10px black;
+}
+.navbar{
+    height:50px;
+    width:auto;
+}
+.b1{
+    position:absolute;
+    color:orangered;
+    background:transparent;
+    border:none;
+    right:610px;
+    top:15px;
+    width:100px;
+    height:27px;
+    font-size:15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.b1:hover{
+    border:1px solid orangered;
+    border-radius:15px;
+    letter-spacing:1px;
+    transition-property: all;
+    transition-duration:0.7s;
+}
+.b1:active{
+    color:antiquewhite;
+    background-color: orangered;
+}
+.b2{
+    position:absolute;
+    color:orangered;
+    background:transparent;
+    border:none;
+    right:495px;
+    top:15px;
+    width:100px;
+    height:27px;
+    font-size:15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.b2:hover{
+    border:1px solid orangered;
+    border-radius:15px;
+    letter-spacing:1px;
+    transition-duration:0.7s;
+}
+.b2:active{
+    color:antiquewhite;
+    background-color: orangered;
+}
+.b3{
+    position:absolute;
+    color:orangered;
+    background:transparent;
+    border:none;
+    right:380px;
+    top:15px;
+    width:100px;
+    height:27px;
+    font-size:15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.b3:hover{
+    border:1px solid orangered;
+    border-radius:15px;
+    letter-spacing:1px;
+    transition-duration:0.7s;
+}
+.b3:active{
+    color:antiquewhite;
+    background-color: orangered;
+}
+.b4{
+    position:absolute;
+    color:orangered;
+    background:transparent;
+    border:none;
+    right:265px;
+    top:15px;
+    width:100px;
+    height:27px;
+    font-size:15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.b4:hover{
+    border:1px solid orangered;
+    border-radius:15px;
+    letter-spacing:1px;
+    transition-duration:0.7s;
+}
+.b4:active{
+    color:antiquewhite;
+    background-color: orangered;
+}
+.b5{
+    position:absolute;
+    color:orangered;
+    background:transparent;
+    border:none;
+    right:115px;
+    top:15px;
+    width:120px;
+    height:27px;
+    font-size:15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.b5:hover{
+    border:1px solid orangered;
+    border-radius:15px;
+    letter-spacing:1px;
+    transition-duration:0.7s;
+}
+.b5:active{
+    color:antiquewhite;
+    background-color: orangered;
+}
+.box2{
+    position:absolute;
+    height:450px;
+    width:450px;
+    top:20%;
+    left:17%;
+}
+.b6{
+    position:absolute;
+    color:white;
+    top:65%;
+    left:3.5%;
+    font-family:cordiaUPC;
+    font-size:18px;
+    border:1px solid orangered;
+    background-color:orangered;
+    border-radius:10px;
+    width:100px;
+    height:30px;
+}
+.b6:hover{
+    background-color:rgb(225, 113, 8);
+    transition-duration:0.5s;
+    letter-spacing:3px;
+}
+.b6:active{
+    color:antiquewhite;
+    background-color: orangered;
+}
+.box3{
+    position:relative;
+    height:1000px;
+    width:1440px;
+    left:40px;
+    top:50px;
+}
+.innbox1{
+
+    height:80%;
+    width:35%;
+    position:absolute;
+    left:55%;
+    top:45%;
+}
+.ibox2{
+    height:40%;
+    width:35%;
+    position:absolute;
+    text-align: center;
+}
+.b7{
+    position:relative;
+    color:white;
+    top:60px;
+    border:1px solid orangered;
+    background-color:orangered;
+    font-size:18px;
+    font-family:cordiaUPC;
+    border-radius:20px;
+    width:120px;
+    height:40px;
+}
+.b7:hover{
+    letter-spacing:3px;
+    background-color:rgb(225, 113, 8);
+    transition-duration:0.7s;
+}
+.b7:active{
+    color:antiquewhite;
+    background-color:orangered;
+}
+.box4{
+    bottom:5%;
+    position:relative;
+    height:20%;
+    width:46%;
+    left:25%;
+    text-align:center;
+}
+.lastbox{
+    position:relative;
+    width:auto;
+    height:900px;
+}
+.dform{
+    position:relative;
+    width:47%;
+    height:50%;
+    top:100px;
+    left:45%;
+    align-items: center;
+}
+.ibutton1{
+    position:absolute;
+    left:0px;
+    top:77%;
+    width:20%;
+    height:10%;
+    font-family:arial;
+    font-size:16px;
+    border:none;
+    border-radius:50px;
+    background-color:orangered;
+    border:1px solid orangered;
+    color:white;
+}
+.ibutton1:hover{
+    letter-spacing:3px;
+    background-color:rgb(225, 113, 8);
+    transition-duration:0.5s;
+}
+.ibutton1:active{
+    color:antiquewhite;
+    background-color:orangered;
+}
+.box5{
+    position:absolute;
+    width:30%;
+    height:38%;
+    bottom:37%;
+    left:8%;
+    align-content:center;
+}
+.slide{
+    height:77.3%;
+    width:auto;
+    position:absolute;
+    top:0.1%;
+    align-content:center;
+    background-color:black;
+    animation:slide 4.5s infinite ;
+    display:flex;
+}
+.fslide{
+    height:35%;
+    width:40%;
+    position:absolute;
+    top:15%;
+    left:30%;
+    overflow:hidden;
+}
+@keyframes slide{
+    0%{
+        transform:translateX(0);
+    }
+    25%{
+        transform:translateX(0);
+    }
+    30%{
+        transform:translateX(-100%);
+    }
+    50%{
+        transform:translateX(-100%);
+    }
+    75%{
+        transform:translateX(-200%);
+    }
+    100%{
+        transform:translateX(-200%);
+    }
+}
+.footer{
+    position:absolute;
+    height:20%;
+    width:99.8%;
+    bottom:0px;
+    align-content:center;
+    background-color:rgb(31, 36, 46);
+}
+.sfooter{
+    height:40%;
+    width:50%;
+    align-content:center;
+    font-family:open sans, sans-serif;
+}
+.terms{
+    position:absolute;
+    color:rgb(120, 120, 120);
+    right:22%;
+    top:41%;
+    text-decoration:none;
+    transition-duration:0.5s;
+}
+.terms:hover{
+    color:orangered;
+}
+.privacy{
+    position:absolute;
+    color:rgb(120, 120, 120);
+    right:12%;
+    top:41%;
+    text-decoration:none;
+    transition-duration:0.5s;
+}
+.privacy:hover{
+    color:orangered;
+}
+
+
+
